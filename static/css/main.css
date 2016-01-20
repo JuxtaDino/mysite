@@ -5,7 +5,7 @@ h1{
 	text-decoration: underline;
 }
 .row{
-	width: 1366px;
+	width: 100%;
 }
 #main{
 	text-align: center;
