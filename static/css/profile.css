@@ -16,3 +16,9 @@ body{
 h4{
 	text-decoration: underline;
 }
+.content{
+	font-family: 'Ubuntu', sans-serif;
+}
+.logo{
+	text-align: center;
+}
