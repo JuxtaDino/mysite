@@ -58,4 +58,7 @@ h4{
     .logo{
     	padding-top: 25px;
     }
+    .container-fluid{
+	height: 100%;
+	}
 }
