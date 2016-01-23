@@ -29,10 +29,11 @@ i{
 	padding-left: 100px;
 	background-color: #000;
 }
-.col-md-4{
-	padding-top: 25px;
+.row{
+	margin: 0px;
 }
 .container-fluid{
+	padding-right: 0px;
 	height: 100%;
 }
 h4{
@@ -40,15 +41,12 @@ h4{
 }
 @media only screen and (max-width: 768px) {
     .profile{
-        padding-top: 0px;
+        padding-top: 40px;
         padding-left: 0px;
         text-align: center;
     }
     h4{
     	text-decoration: underline;
-    }
-    .col-md-4{
-    	padding-top: 25px;
     }
     h1{
     	font-size: 24px;
