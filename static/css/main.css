@@ -46,11 +46,7 @@ h4{
 	font-weight: bold;
 	color: #fff;
 }
-@media only screen and (max-width: 768px) {
-    [class*="col-"] {
-        width: 100%;
-    }
-}
+
 @media only screen and (max-width: 768px) {
     .row {
         padding-top: 25px;
