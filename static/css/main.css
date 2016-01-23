@@ -32,9 +32,10 @@ i{
 .row{
 	margin: 0px;
 }
-.container-fluid{
+.container{
 	padding-right: 0px;
 	height: 100%;
+	width: 100%;
 }
 h4{
 	font-weight: bold;
