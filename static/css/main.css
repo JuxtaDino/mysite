@@ -42,15 +42,20 @@ a:hover{
 	height: 100%;
 }
 h4{
-	text-decoration: underline;
 	font-weight: bold;
 	color: #fff;
 }
 
 @media only screen and (max-width: 768px) {
     .row {
-        padding-top: 25px;
+        padding-top: 0px;
         padding-left: 0px;
         text-align: center;
+    }
+    h4{
+    	text-decoration: underline;
+    }
+    .logo{
+    	padding-top: 25px;
     }
 }
